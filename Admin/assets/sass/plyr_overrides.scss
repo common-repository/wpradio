@@ -1,0 +1,15 @@
+:root {
+  --plyr-audio-control-color: #{$accent-color}!important;
+  --plyr-color-main: #{$accent-color}!important;
+  --plyr-audio-controls-background: #f9fafb!important;
+}
+.podcasts-player {
+  background-color: #f9fafb;
+  border-bottom: 1.5px solid #e5e7eb!important;
+  span {
+    color: #{$accent-color};
+  }
+}
+.plyr {
+  width:100%;
+}

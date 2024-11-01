@@ -1,0 +1,600 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: Wordpress Radio\n"
+"POT-Creation-Date: 2021-01-09 09:51+0200\n"
+"PO-Revision-Date: 2021-01-09 09:52+0200\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: wpradio.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Last-Translator: \n"
+"Language: en\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: Admin/Admin.php:180
+msgid "Style could not be registered: "
+msgstr "Style could not be registered: "
+
+#: Admin/Admin.php:210 Frontend/Frontend.php:104
+msgid "Script could not be registered: "
+msgstr "Script could not be registered: "
+
+#: Admin/Admin.php:217
+msgid "Loading Page"
+msgstr "Loading Page"
+
+#: Admin/Admin.php:218
+msgid "Loading Account"
+msgstr "Loading Account"
+
+#: Admin/Admin.php:219
+msgid "Checking Server Status"
+msgstr "Checking Server Status"
+
+#: Admin/Admin.php:220
+msgid "Caster.fm API Tokens are required"
+msgstr "Caster.fm API Tokens are required"
+
+#: Admin/Admin.php:221
+msgid ""
+"Wordpress Radio plugin requires you to have a FREE account at Caster.fm API "
+"and set your API Private Token at the plugin settings page"
+msgstr ""
+"Wordpress Radio plugin requires you to have a FREE account at Caster.fm API "
+"and set your API Private Token at the plugin settings page"
+
+#: Admin/Admin.php:222
+msgid "FREE Caster.fm API Registration"
+msgstr "FREE Caster.fm API Registration"
+
+#: Admin/Admin.php:223
+msgid "Settings Page"
+msgstr "Settings Page"
+
+#: Admin/Admin.php:224
+#: Admin/partials/wpradio-dashboard-block-server-template.php:52
+#: Admin/partials/wpradio-layout-template.php:195
+msgid "Online"
+msgstr "Online"
+
+#: Admin/Admin.php:225
+#: Admin/partials/wpradio-dashboard-block-server-template.php:52
+#: Admin/partials/wpradio-layout-template.php:195
+msgid "Offline"
+msgstr "Offline"
+
+#: Admin/Admin.php:226
+#: Admin/partials/wpradio-dashboard-block-server-template.php:65
+msgid "Start Server"
+msgstr "Start Server"
+
+#: Admin/Admin.php:227
+#: Admin/partials/wpradio-dashboard-block-server-template.php:65
+msgid "Stop Server"
+msgstr "Stop Server"
+
+#: Admin/Admin.php:228
+msgid "Action Failed"
+msgstr "Action Failed"
+
+#: Admin/Admin.php:229
+msgid "Service Unavailable"
+msgstr "Service Unavailable"
+
+#: Admin/Admin.php:230
+msgid ""
+"Cannot access account information, please try again later or contact support"
+msgstr ""
+"Cannot access account information, please try again later or contact support"
+
+#: Admin/Admin.php:231
+msgid "Private Token Invalid"
+msgstr "Private Token Invalid"
+
+#: Admin/Admin.php:232
+msgid "The supplied private token is not valid."
+msgstr "The supplied private token is not valid."
+
+#: Admin/Admin.php:233
+msgid ""
+"Could not perform the selected action at the moment. please try again later "
+"or contact support."
+msgstr ""
+"Could not perform the selected action at the moment. please try again later "
+"or contact support."
+
+#: Admin/Admin.php:234
+msgid "Error!"
+msgstr "Error!"
+
+#: Admin/Admin.php:235
+msgid "Success!"
+msgstr "Success!"
+
+#: Admin/Admin.php:236
+msgid "Close"
+msgstr "Close"
+
+#: Admin/Admin.php:237
+msgid "Server has been started successfully"
+msgstr "Server has been started successfully"
+
+#: Admin/Admin.php:238
+msgid "Server has been stopped successfully"
+msgstr "Server has been stopped successfully"
+
+#: Admin/Admin.php:239
+#: Admin/partials/wpradio-dashboard-block-broadcast-template.php:159
+#: Admin/partials/wpradio-dashboard-block-server-template.php:318
+msgid "Upgrade your plan to unlock"
+msgstr "Upgrade your plan to unlock"
+
+#: Admin/Admin.php:240
+msgid "Recording"
+msgstr "Recording"
+
+#: Admin/Admin.php:241
+msgid "Finished"
+msgstr "Finished"
+
+#: Admin/Admin.php:242
+msgid "Too Many Requests"
+msgstr "Too Many Requests"
+
+#: Admin/Admin.php:243
+msgid "Request failed due to throttling. please try again in a minute."
+msgstr "Request failed due to throttling. please try again in a minute."
+
+#: Admin/Admin.php:244
+msgid ""
+"Source Dropped. please note that most broadcast software has an auto-"
+"reconnect feature which will continue to reconnect to the server even after "
+"being dropped"
+msgstr ""
+"Source Dropped. please note that most broadcast software has an auto-"
+"reconnect feature which will continue to reconnect to the server even after "
+"being dropped"
+
+#: Admin/Admin.php:245
+msgid "Metadata updated successfully."
+msgstr "Metadata updated successfully."
+
+#: Admin/Admin.php:246
+msgid "Minutes"
+msgstr "Minutes"
+
+#: Admin/Admin.php:247
+msgid "Bytes"
+msgstr "Bytes"
+
+#: Admin/Admin.php:248
+msgid "An error occurred."
+msgstr "An error occurred."
+
+#: Admin/Admin.php:282 Admin/partials/wpradio-layout-template.php:40
+#: Admin/partials/wpradio-layout-template.php:115
+msgid "Dashboard"
+msgstr "Dashboard"
+
+#: Admin/Admin.php:291
+#: Admin/partials/wpradio-dashboard-block-listeners-template.php:49
+#: Admin/partials/wpradio-layout-template.php:42
+#: Admin/partials/wpradio-layout-template.php:117
+#: Admin/partials/wpradio-listeners-template.php:36
+msgid "Listeners"
+msgstr "Listeners"
+
+#: Admin/Admin.php:300 Admin/partials/wpradio-layout-template.php:44
+#: Admin/partials/wpradio-layout-template.php:119
+msgid "Podcasts"
+msgstr "Podcasts"
+
+#: Admin/Admin.php:309 Admin/partials/wpradio-layout-template.php:46
+#: Admin/partials/wpradio-layout-template.php:121
+msgid "Widgets"
+msgstr "Widgets"
+
+#: Admin/NetworkSettings.php:161
+msgid "Caster.fm API Affiliate Setup"
+msgstr "Caster.fm API Affiliate Setup"
+
+#: Admin/NetworkSettings.php:168
+msgid "Affiliate ID"
+msgstr "Affiliate ID"
+
+#: Admin/NetworkSettings.php:196
+msgid "Settings saved."
+msgstr "Settings saved."
+
+#: Admin/NetworkSettings.php:206
+msgid "Wordpress Radio Network Settings"
+msgstr "Wordpress Radio Network Settings"
+
+#: Admin/NetworkSettings.php:230
+msgid "Failed security check."
+msgstr "Failed security check."
+
+#: Admin/NetworkSettings.php:290
+msgid ""
+"If you are a Caster.fm API Affiliate you can set your affiliate id for the "
+"entire network."
+msgstr ""
+"If you are a Caster.fm API Affiliate you can set your affiliate id for the "
+"entire network."
+
+#: Admin/NetworkSettings.php:290
+msgid ""
+"This will change the links to the Caster.fm API registration page displayed "
+"at the Wordpress Radio interface for site managers."
+msgstr ""
+"This will change the links to the Caster.fm API registration page displayed "
+"at the Wordpress Radio interface for site managers."
+
+#: Admin/Settings.php:191
+msgid "Wordpress Radio Settings"
+msgstr "Wordpress Radio Settings"
+
+#: Admin/Settings.php:230
+msgid "Private Token"
+msgstr "Private Token"
+
+#: Admin/Settings.php:277
+msgid "WPError: Cannot make the validation request."
+msgstr "WPError: Cannot make the validation request."
+
+#: Admin/Settings.php:282
+msgid "Invalid Private Token Provided."
+msgstr "Invalid Private Token Provided."
+
+#: Admin/Settings.php:284
+msgid "Cannot validate token, server returned error code: "
+msgstr "Cannot validate token, server returned error code: "
+
+#: Admin/Settings.php:289
+msgid "Cannot validate token, server returned non json body."
+msgstr "Cannot validate token, server returned non json body."
+
+#: Admin/Settings.php:293
+msgid "Tokens saved successfully!"
+msgstr "Tokens saved successfully!"
+
+#: Admin/Settings.php:345
+msgid ""
+"This plugin requires you to have an account at Caster.fm API and set your "
+"API Private Token."
+msgstr ""
+"This plugin requires you to have an account at Caster.fm API and set your "
+"API Private Token."
+
+#: Admin/Settings.php:345
+msgid "Caster.fm API Registration"
+msgstr "Caster.fm API Registration"
+
+#: Admin/partials/wpradio-all-channels-select-template.php:72
+msgid "Multiple Channels"
+msgstr "Multiple Channels"
+
+#: Admin/partials/wpradio-all-sidebar-template.php:39
+msgid "Getting Started:"
+msgstr "Getting Started:"
+
+#: Admin/partials/wpradio-all-sidebar-template.php:42
+msgid "Learn how to broadcast at the "
+msgstr "Learn how to broadcast at the "
+
+#: Admin/partials/wpradio-all-sidebar-template.php:44
+msgid "Tutorials Section"
+msgstr "Tutorials Section"
+
+#: Admin/partials/wpradio-all-sidebar-template.php:54
+msgid "News"
+msgstr "News"
+
+#: Admin/partials/wpradio-all-sidebar-template.php:67
+msgid "Subscription"
+msgstr "Subscription"
+
+#: Admin/partials/wpradio-all-sidebar-template.php:72
+msgid "Manage"
+msgstr "Manage"
+
+#: Admin/partials/wpradio-all-sidebar-template.php:80
+msgid "Plan"
+msgstr "Plan"
+
+#: Admin/partials/wpradio-all-sidebar-template.php:91
+msgid "Addons"
+msgstr "Addons"
+
+#: Admin/partials/wpradio-all-sidebar-template.php:111
+msgid "Broadcast Channels"
+msgstr "Broadcast Channels"
+
+#: Admin/partials/wpradio-all-sidebar-template.php:122
+msgid "Listener Slots"
+msgstr "Listener Slots"
+
+#: Admin/partials/wpradio-all-sidebar-template.php:130
+msgid "Max Quality/Bitrate"
+msgstr "Max Quality/Bitrate"
+
+#: Admin/partials/wpradio-all-sidebar-template.php:138
+msgid "Podcasts Recorder"
+msgstr "Podcasts Recorder"
+
+#: Admin/partials/wpradio-all-sidebar-template.php:154
+msgid "Upgrade your subscription plan to unlock this feature"
+msgstr "Upgrade your subscription plan to unlock this feature"
+
+#: Admin/partials/wpradio-all-sidebar-template.php:167
+msgid "Maximum Recordings"
+msgstr "Maximum Recordings"
+
+#: Admin/partials/wpradio-all-sidebar-template.php:175
+msgid "Maximum Duration"
+msgstr "Maximum Duration"
+
+#: Admin/partials/wpradio-all-sidebar-template.php:177
+msgid "Hour/s"
+msgstr "Hour/s"
+
+#: Admin/partials/wpradio-dashboard-block-broadcast-template.php:56
+msgid "Broadcast"
+msgstr "Broadcast"
+
+#: Admin/partials/wpradio-dashboard-block-broadcast-template.php:66
+#: Admin/partials/wpradio-dashboard-block-server-template.php:156
+#: Admin/partials/wpradio-listeners-template.php:44
+#: Admin/partials/wpradio-podcasts-template.php:68
+msgid "Channel"
+msgstr "Channel"
+
+#: Admin/partials/wpradio-dashboard-block-broadcast-template.php:86
+msgid "Source IP"
+msgstr "Source IP"
+
+#: Admin/partials/wpradio-dashboard-block-broadcast-template.php:119
+msgid "Drop Source"
+msgstr "Drop Source"
+
+#: Admin/partials/wpradio-dashboard-block-broadcast-template.php:141
+msgid "Encoding"
+msgstr "Encoding"
+
+#: Admin/partials/wpradio-dashboard-block-broadcast-template.php:149
+msgid "Bitrate"
+msgstr "Bitrate"
+
+#: Admin/partials/wpradio-dashboard-block-broadcast-template.php:157
+msgid "Recorder Status"
+msgstr "Recorder Status"
+
+#: Admin/partials/wpradio-dashboard-block-broadcast-template.php:166
+msgid "Stream Start Time"
+msgstr "Stream Start Time"
+
+#: Admin/partials/wpradio-dashboard-block-broadcast-template.php:179
+msgid "Now Playing"
+msgstr "Now Playing"
+
+#: Admin/partials/wpradio-dashboard-block-broadcast-template.php:209
+msgid "Update Metadata"
+msgstr "Update Metadata"
+
+#: Admin/partials/wpradio-dashboard-block-broadcast-template.php:230
+#: Admin/partials/wpradio-podcasts-template.php:139
+msgid "Update"
+msgstr "Update"
+
+#: Admin/partials/wpradio-dashboard-block-broadcast-template.php:251
+msgid "Player"
+msgstr "Player"
+
+#: Admin/partials/wpradio-dashboard-block-broadcast-template.php:264
+msgid "Open Stream Player"
+msgstr "Open Stream Player"
+
+#: Admin/partials/wpradio-dashboard-block-listeners-template.php:63
+msgid "Detailed View"
+msgstr "Detailed View"
+
+#: Admin/partials/wpradio-dashboard-block-server-template.php:51
+msgid "Streaming Server"
+msgstr "Streaming Server"
+
+#: Admin/partials/wpradio-dashboard-block-server-template.php:83
+msgid "Server Hostname"
+msgstr "Server Hostname"
+
+#: Admin/partials/wpradio-dashboard-block-server-template.php:104
+msgid "Server Port"
+msgstr "Server Port"
+
+#: Admin/partials/wpradio-dashboard-block-server-template.php:123
+msgid "Server Start Time"
+msgstr "Server Start Time"
+
+#: Admin/partials/wpradio-dashboard-block-server-template.php:132
+msgid "Broadcast Username"
+msgstr "Broadcast Username"
+
+#: Admin/partials/wpradio-dashboard-block-server-template.php:164
+msgid "Mount-Point"
+msgstr "Mount-Point"
+
+#: Admin/partials/wpradio-dashboard-block-server-template.php:184
+msgid "Broadcast Password"
+msgstr "Broadcast Password"
+
+#: Admin/partials/wpradio-dashboard-block-server-template.php:214
+msgid "Regenerate Password"
+msgstr "Regenerate Password"
+
+#: Admin/partials/wpradio-dashboard-block-server-template.php:257
+msgid "Regenerate Broadcast Password"
+msgstr "Regenerate Broadcast Password"
+
+#: Admin/partials/wpradio-dashboard-block-server-template.php:261
+msgid ""
+"You are about to generate a new broadcast password for this channel, once "
+"finished the server will be shutdown.<br />Please note that you will need to "
+"reconfigure your broadcast software with the new password."
+msgstr ""
+"You are about to generate a new broadcast password for this channel, once "
+"finished the server will be shutdown.<br />Please note that you will need to "
+"reconfigure your broadcast software with the new password."
+
+#: Admin/partials/wpradio-dashboard-block-server-template.php:280
+msgid "Proceed"
+msgstr "Proceed"
+
+#: Admin/partials/wpradio-dashboard-block-server-template.php:287
+msgid "Cancel"
+msgstr "Cancel"
+
+#: Admin/partials/wpradio-dashboard-block-server-template.php:312
+msgid "Direct Stream Link"
+msgstr "Direct Stream Link"
+
+#: Admin/partials/wpradio-layout-template.php:78
+#: Admin/partials/wpradio-layout-template.php:128
+msgid "Tutorials"
+msgstr "Tutorials"
+
+#: Admin/partials/wpradio-layout-template.php:80
+#: Admin/partials/wpradio-layout-template.php:131
+msgid "Contact Support"
+msgstr "Contact Support"
+
+#: Admin/partials/wpradio-layout-template.php:350
+msgid "Announcement"
+msgstr "Announcement"
+
+#: Admin/partials/wpradio-layout-template.php:358
+msgid "Read More"
+msgstr "Read More"
+
+#: Admin/partials/wpradio-listeners-template.php:64
+msgid "IP"
+msgstr "IP"
+
+#: Admin/partials/wpradio-listeners-template.php:67
+msgid "Conneceted"
+msgstr "Conneceted"
+
+#: Admin/partials/wpradio-listeners-template.php:70
+msgid "Lag"
+msgstr "Lag"
+
+#: Admin/partials/wpradio-listeners-template.php:73
+msgid "User Agent"
+msgstr "User Agent"
+
+#: Admin/partials/wpradio-listeners-template.php:133
+msgid "No Listeners"
+msgstr "No Listeners"
+
+#: Admin/partials/wpradio-listeners-template.php:141
+#: Admin/partials/wpradio-podcasts-template.php:224
+msgid "An error occurred, please try again later."
+msgstr "An error occurred, please try again later."
+
+#: Admin/partials/wpradio-podcasts-template.php:33
+msgid "Podcasts Recorder Disabled"
+msgstr "Podcasts Recorder Disabled"
+
+#: Admin/partials/wpradio-podcasts-template.php:37
+msgid "Your current plan does not support the podcasts recorder functionality."
+msgstr ""
+"Your current plan does not support the podcasts recorder functionality."
+
+#: Admin/partials/wpradio-podcasts-template.php:44
+msgid "Upgrade your plan"
+msgstr "Upgrade your plan"
+
+#: Admin/partials/wpradio-podcasts-template.php:60
+msgid "Recorded Podcasts"
+msgstr "Recorded Podcasts"
+
+#: Admin/partials/wpradio-podcasts-template.php:99
+msgid "Name"
+msgstr "Name"
+
+#: Admin/partials/wpradio-podcasts-template.php:102
+msgid "Recorded At"
+msgstr "Recorded At"
+
+#: Admin/partials/wpradio-podcasts-template.php:216
+msgid "No Podcasts"
+msgstr "No Podcasts"
+
+#: Admin/partials/wpradio-widgets-template.php:38
+msgid ""
+"When using those widgets, 3 invisible links will be embedded into the page, "
+"those WILL NOT be displayed to your visitors."
+msgstr ""
+"When using those widgets, 3 invisible links will be embedded into the page, "
+"those WILL NOT be displayed to your visitors."
+
+#: Admin/partials/wpradio-widgets-template.php:62
+msgid "Stream Player"
+msgstr "Stream Player"
+
+#: Admin/partials/wpradio-widgets-template.php:78
+#: Admin/partials/wpradio-widgets-template.php:175
+msgid "Light"
+msgstr "Light"
+
+#: Admin/partials/wpradio-widgets-template.php:83
+#: Admin/partials/wpradio-widgets-template.php:180
+msgid "Dark"
+msgstr "Dark"
+
+#: Admin/partials/wpradio-widgets-template.php:114
+#: Admin/partials/wpradio-widgets-template.php:211
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: Admin/partials/wpradio-widgets-template.php:130
+#: Admin/partials/wpradio-widgets-template.php:227
+msgid "Copy"
+msgstr "Copy"
+
+#: Admin/partials/wpradio-widgets-template.php:159
+msgid "Podcasts Player"
+msgstr "Podcasts Player"
+
+#: Includes/Updater.php:87
+msgid "Update routine not callable: "
+msgstr "Update routine not callable: "
+
+#. Plugin Name of the plugin/theme
+msgid "Wordpress Radio"
+msgstr "Wordpress Radio"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://www.caster.fm/free-cloud-stream-hosting/wordpress-plugin"
+msgstr "https://www.caster.fm/free-cloud-stream-hosting/wordpress-plugin"
+
+#. Description of the plugin/theme
+msgid ""
+"Wordpress Radio is an entire radio streaming platform embedded in your "
+"WordPress site"
+msgstr ""
+"Wordpress Radio is an entire radio streaming platform embedded in your "
+"WordPress site"
+
+#. Author of the plugin/theme
+msgid "Caster.fm"
+msgstr "Caster.fm"

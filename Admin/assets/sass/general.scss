@@ -1,0 +1,17 @@
+.overflow-hidden {
+  overflow: hidden;
+}
+
+.update-nag {
+  display:none;
+}
+
+#wpradio_podcastsTableBody {
+  .podcasts-table-name-field {
+    max-width:350px;
+  }
+}
+
+#wpradio-page input.readonly, input[readonly], textarea.readonly, textarea[readonly] {
+  background: inherit!important;
+}

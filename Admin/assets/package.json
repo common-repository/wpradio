@@ -1,0 +1,38 @@
+{
+  "name": "wpradio_assets",
+  "version": "1.0.0",
+  "description": "",
+  "devDependencies": {
+    "@simonwep/pickr": "^1.8.0",
+    "@tailwindcss/aspect-ratio": "^0.2.1",
+    "@tailwindcss/forms": "^0.3.3",
+    "@tailwindcss/typography": "^0.3.0",
+    "alpinejs": "^3.3.3",
+    "autoprefixer": "^10.3.5",
+    "axios": "^1.5.0",
+    "chart.js": "^3.0.0-beta.14",
+    "chartjs-adapter-date-fns": "^1.1.0-alpha.3",
+    "clipboard": "^2.0.6",
+    "cross-env": "^7.0.2",
+    "date-fns": "^2.16.1",
+    "laravel-mix": "^6.0.49",
+    "plyr": "^3.6.2",
+    "postcss": "^8.3.7",
+    "sass": "^1.26.11",
+    "sass-loader": "^8.0.2",
+    "tailwind-content-placeholder": "0.0.3",
+    "tailwindcss": "^2.2.15",
+    "ua-parser-js": "^0.7.23",
+    "vue-template-compiler": "^2.6.12",
+    "webpack-bundle-analyzer": "^4.2.0"
+  },
+  "scripts": {
+    "development": "mix",
+    "watch": "mix watch",
+    "watch-poll": "mix watch -- --watch-options-poll=1000",
+    "hot": "mix watch --hot",
+    "production": "mix --production"
+  },
+  "author": "",
+  "license": "ISC"
+}
